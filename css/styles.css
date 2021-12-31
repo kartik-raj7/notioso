@@ -1,0 +1,149 @@
+body{
+  font-family: 'Montserrat';
+  text-align:center;
+}
+#title{
+  background-color: #84DFFF;
+  font-weight: bolder
+}
+#title .contaier-fluid{
+  padding:  3% 15%;
+}
+h1{
+  color: Black;
+  font-family: 'Montserrat-bold 800',fantasy;
+font-size: 3rem;
+font-weight: bolder;
+line-height: 2;
+padding: 50px 0 50px 0;
+}
+h2{
+  font-family: 'Spline Sans', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5rem;
+  font-weight: bold;
+}
+.navbar{
+  padding-bottom: 8.5rem;
+}
+.navbar1 {
+    font-size: 2.0rem;
+    font-family: 'Montserrat-Black',fantasy;
+    color: #9A0680;
+    text-decoration: none;
+    font-weight: lighter;
+
+}
+.nav-item{
+  padding: 0 18px;
+  color: black;
+}
+
+.title-image{
+  width:75%;
+  transition: rotate(15deg);
+
+}
+#features{
+  padding: 7% 15% ;
+  background-color: #93FFD8;
+  color:  black;
+}
+.features-box{
+  text-align: center;
+  padding:5%;
+}
+h3{
+  font-family: 'Spline Sans', sans-serif;
+  font-weight: bold;3
+  font-size: 5;}
+p{
+    color: black;
+  }
+.icon{
+  color:#B958A5;
+  margin-bottom: 2rem;
+}
+.icon:hover{
+  color:black;
+}
+#testimonials{
+padding: 50px 0 50px 0;
+text-align: center;
+background-color: #84DFFF;
+color:black;
+font-weight: bold;
+}
+.testimonial-image{
+  border-radius: 100%;
+  width: 8%;
+  margin: 5%;
+}
+#press{
+  background-color: #B958A5;;
+  text-align: center;
+}
+.press-logo{
+  width:10%;
+  margin: 20px 20px 30px;
+}
+.carousel-item{
+    height:250px;
+}
+#pricing{
+  padding: 100px;
+  background-color: #84DFFF;
+  padding: 20px 50px 20px 50px;
+}
+.card-body{
+  height:420px;
+}
+.col{
+  background-color: #84DFFF;
+}
+#foot{
+  background-color: #B958A5;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 1.0rem;
+  margin: 0;
+}
+#footer{
+  background-color: #B958A5;
+  color: black;
+  text-align: center;
+  padding: 20px 0 20px 0;
+}
+.ending{
+  color:black;
+  margin-top: 2rem;
+}
+.social-icon{
+  margin-right: 20px;
+  color:black;
+}
+/*b
+  background-color: #84DFFF
+font-weight: bolder;
+font-family: 'Poppins', sans-serif;
+font-family: 'Vujahday Script', cursive;
+text-align:center;
+margin-top: 10;
+}
+h1{
+  color: #B958A5;#B958A5
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+h2{
+  color:#9A0680;
+}
+p{
+  color:#79018C;
+}
+h2{
+  color:#4C0070;
+}
+h3{
+  color:#3F3351;
+}*/
