@@ -122,6 +122,9 @@ font-weight: bold;
   margin-right: 20px;
   color:black;
 }
+.social-icon:hover{
+  color:#93FFD8;
+}
 /*b
   background-color: #84DFFF
 font-weight: bolder;
